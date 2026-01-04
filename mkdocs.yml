@@ -1,6 +1,6 @@
 site_name: My Network Knowledge Base
-site_url: https://chermet90.github.io/my-kb-mkdocs/  # подправьте на свой
-repo_url: https://github.com/chermet90/my-kb-mkdocs
+site_url: https://chermet90.github.io/kb-mkdocs/
+repo_url: https://github.com/chermet90/kb-mkdocs
 edit_uri: edit/main/docs/
 
 docs_dir: docs
